@@ -85,6 +85,14 @@
       "api": "https://jszyapi.com/api.php/provide/vod",
       "name": "极速"
     },
+    "db": {
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "name": "豆瓣"
+    },
+    "kj": {
+      "api": "https://gayapi.com/api.php/provide/vod/at/json",
+      "name": "ok"
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
