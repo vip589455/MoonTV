@@ -96,6 +96,22 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "aomi": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "源"
+    },
+    "a2omi": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "name": "4源"
+    },
+    "1aomi": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "1源"
+    },
+    "op": {
+      "api": "https://gayapi.com/api.php/provide/vod/at/json",
+      "name": "资源"
     }
   }
 }
